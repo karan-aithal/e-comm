@@ -1,7 +1,7 @@
-import React from 'react'
 import BgVid from '../assets/Videobg.mp4'
-import '../components/Main.scss'
-import $ from 'jquery';
+import './Main.css'
+//import './components/Main.css'
+// import $ from 'jquery';
 
 
 //creates an HTML canvas which uses WebGL to
